@@ -95,11 +95,12 @@ may subscribe to get customized reports.
 - [arkime](https://github.com/arkime/arkime): large scale packet capture and search
 - [tcpdump](https://www.tcpdump.org/): better performance than *shark
 ### troubleshooting tools
-- iperf3, speedtest
+- iperf3
 - dns troubleshooting: dig, digdns, intodns, mxtoolbox
 - whois, nslookup
 - mtr/traceroute, ping
 - hping - like ping, but with tcp/udp transport protocols, get rtt for specific ports
+- speedtest
 
 ## administration tools
 ### diagrams
