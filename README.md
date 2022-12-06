@@ -1,5 +1,5 @@
 # networking links collection
-Just a collection of networking-related news sites and tools i personally make use of.
+Just a collection of networking-related news sites and tools i personally make use of. 
 
 ## list of lists
 - [Awesome network automation list](https://github.com/networktocode/awesome-network-automation)
