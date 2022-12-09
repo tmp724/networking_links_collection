@@ -4,14 +4,13 @@ Just a collection of networking-related news sites and tools i personally make u
 ## list of lists
 - [Awesome network automation list](https://github.com/networktocode/awesome-network-automation)
 - [Awesome SDN list](https://github.com/sdnds-tw/awesome-sdn): same with a focus on software defined networking
-- [Awesome network analysis list](https://github.com/briatte/awesome-network-analysis)
 - [Awesome pcap tools list](https://github.com/caesar0301/awesome-pcaptools)
 
 ## general information/news
 ### papers
 - [Papers](https://arxiv.org/list/cs.NI/recent): I actually use the arXiv mobile phone app (available on F-Droid) to skim through papers and than download the important ones from here
 ### general news
-- [sdnlab](https://www.sdnlab.com/tag/SDN/): It is in Chinese, but it's the best SDN related news site i know of. My Chinese isn't much better than anyones, but with 
+- [sdnlab](https://www.sdnlab.com/): It is in Chinese, but it's the best SDN related news site i know of. My Chinese isn't much better than anyones, but with 
 [the right dictionary](https://www.mdbg.net/chinese/dictionary#), it's actually not that hard the grasp the key points from a text full of english language buzzwords.
 - [r/networking](https://www.reddit.com/r/networking/new/): vivid community of networking engineers
 ### news on network politics
