@@ -31,28 +31,6 @@ Just a collection of networking-related news sites and tools i personally make u
 - [DLF: Computer und Kommunikation](https://www.deutschlandfunk.de/computer-und-kommunikation)
 - [fachinformatiker.de](https://www.fachinformatiker.de/)
 
-## books
-### theoretical basics
-- Computer Networking: A Top-Down Approach
-### administration
-- Cisco Official Cert Guide for CCNA
-- Network Warrior
-- Unix and Linux System Administration Handbook
-- Arista Warrior
-- Practical Packet Analysis
-### programming
-- Hands-On Network Programming with C
-- Network Algorithmics
-- Linux Observability with BPF: Advanced Programming for Performance Analysis and Networking
-### advanced design books
-- Internet Routing Architectures
-- MPLS in the SDN Era
-### other advanced books
-- Recent Advances in Networking
-- Analysis of Computer Networks
-- Network Traffic Anomaly Detection and Prevention
-- Fundamentals of Network Forensics 
-
 ## monitoring glasses and similar
 - [Wondernetwork pings](https://wondernetwork.com/pings): global ping (RTT) statistics
 - [Shadowserver](https://www.shadowserver.org/): Nonprofit organization that scans the internet for vulnerabilities and crafts reports with their findings. Any ASN or public IP space holder 
@@ -215,6 +193,28 @@ may subscribe to get customized reports.
 - UnicornScan, Kismet Wireless
 - virl, strace, nftables, bpfilter, netdisco
 - bandwidth shaper: trickle
+
+## books
+### theoretical basics
+- Computer Networking: A Top-Down Approach
+### administration
+- Cisco Official Cert Guide for CCNA
+- Network Warrior
+- Unix and Linux System Administration Handbook
+- Arista Warrior
+- Practical Packet Analysis
+### programming
+- Hands-On Network Programming with C
+- Network Algorithmics
+- Linux Observability with BPF: Advanced Programming for Performance Analysis and Networking
+### advanced design books
+- Internet Routing Architectures
+- MPLS in the SDN Era
+### other advanced books
+- Recent Advances in Networking
+- Analysis of Computer Networks
+- Network Traffic Anomaly Detection and Prevention
+- Fundamentals of Network Forensics 
 
 ## shopping
 - [fs.com](https://www.fs.com/): cheap business switches, fiber etc.
