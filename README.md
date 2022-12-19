@@ -31,6 +31,28 @@ Just a collection of networking-related news sites and tools i personally make u
 - [DLF: Computer und Kommunikation](https://www.deutschlandfunk.de/computer-und-kommunikation)
 - [fachinformatiker.de](https://www.fachinformatiker.de/)
 
+## books
+### theoretical basics
+Computer Networking: A Top-Down Approach
+### administration
+Cisco Official Cert Guide for CCNA
+Network Warrior
+Unix and Linux System Administration Handbook
+Arista Warrior
+Practical Packet Analysis
+### programming
+Hands-On Network Programming with C
+Network Algorithmics
+Linux Observability with BPF: Advanced Programming for Performance Analysis and Networking
+### advanced design books
+Internet Routing Architectures
+MPLS in the SDN Era
+### other advanced books
+Recent Advances in Networking
+Analysis of Computer Networks
+Network Traffic Anomaly Detection and Prevention
+Fundamentals of Network Forensics 
+
 ## monitoring glasses and similar
 - [Wondernetwork pings](https://wondernetwork.com/pings): global ping (RTT) statistics
 - [Shadowserver](https://www.shadowserver.org/): Nonprofit organization that scans the internet for vulnerabilities and crafts reports with their findings. Any ASN or public IP space holder 
@@ -72,7 +94,7 @@ may subscribe to get customized reports.
 - [dpdk-packetgen](https://pktgen-dpdk.readthedocs.io/en/latest/)
 ### high speed packet processing languages and libraries
 #### low-level APIs
-- [P4](https://p4.org/): not on general-purpose hardware at this time
+- [P4](https://p4.org/)
 - [eBPF](https://ebpf.io/) and [XDP](https://prototype-kernel.readthedocs.io/en/latest/networking/XDP/)
 - [dpdk](https://www.dpdk.org/)
 - [PF_RING](https://www.ntop.org/products/packet-capture/pf_ring/)
