@@ -33,25 +33,25 @@ Just a collection of networking-related news sites and tools i personally make u
 
 ## books
 ### theoretical basics
-Computer Networking: A Top-Down Approach
+- Computer Networking: A Top-Down Approach
 ### administration
-Cisco Official Cert Guide for CCNA
-Network Warrior
-Unix and Linux System Administration Handbook
-Arista Warrior
-Practical Packet Analysis
+- Cisco Official Cert Guide for CCNA
+- Network Warrior
+- Unix and Linux System Administration Handbook
+- Arista Warrior
+- Practical Packet Analysis
 ### programming
-Hands-On Network Programming with C
-Network Algorithmics
-Linux Observability with BPF: Advanced Programming for Performance Analysis and Networking
+- Hands-On Network Programming with C
+- Network Algorithmics
+- Linux Observability with BPF: Advanced Programming for Performance Analysis and Networking
 ### advanced design books
-Internet Routing Architectures
-MPLS in the SDN Era
+- Internet Routing Architectures
+- MPLS in the SDN Era
 ### other advanced books
-Recent Advances in Networking
-Analysis of Computer Networks
-Network Traffic Anomaly Detection and Prevention
-Fundamentals of Network Forensics 
+- Recent Advances in Networking
+- Analysis of Computer Networks
+- Network Traffic Anomaly Detection and Prevention
+- Fundamentals of Network Forensics 
 
 ## monitoring glasses and similar
 - [Wondernetwork pings](https://wondernetwork.com/pings): global ping (RTT) statistics
