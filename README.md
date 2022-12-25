@@ -8,7 +8,7 @@ Just a collection of networking-related news sites and tools i personally make u
 
 ## general information/news
 ### papers
-- [Papers](https://arxiv.org/list/cs.NI/recent): I actually use the arXiv mobile phone app (available on F-Droid) to skim through papers and than download the important ones from here
+- [Papers](https://arxiv.org/list/cs.NI/recent): I actually use the arXiv mobile phone app (available on F-Droid) to skim through papers and then download the important ones from here
 ### general news
 - [sdnlab](https://www.sdnlab.com/): It is in Chinese, but it's the best SDN related news site i know of. My Chinese isn't much better than anyones, but with 
 [the right dictionary](https://www.mdbg.net/chinese/dictionary#), it's actually not that hard the grasp the key points from a text full of english language buzzwords.
