@@ -15,7 +15,6 @@ Just a collection of networking-related news sites and tools i personally make u
 - [r/networking](https://www.reddit.com/r/networking/new/): vivid community of networking engineers
 - [APNIC blog](https://blog.apnic.net/)
 - [ipspace blog](https://blog.ipspace.net/)
-### news on network politics
 - [Electronic Frontier Foundation](https://www.eff.org/)
 ### podcasts - all available on Antennapod
 - [Software gone wild](https://www.ipspace.net/Podcast/Software_Gone_Wild/)
@@ -44,10 +43,6 @@ may subscribe to get customized reports.
 - [Chinafirewalltest](http://www.chinafirewalltest.com/): Test if a site is available from different locations within China. Do note that the Great Firewall does not only base on DNS and IP filtering and can be wonky.
 - [Tor projects](https://2019.www.torproject.org/projects/projects.html.en)
 - [IXPdb](https://ixpdb.euro-ix.net/en/)
-
-## basic resources
-- [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/)
-- [CCNA workbook](http://www.freeccnaworkbook.com/workbooks/ccna)
 - [Mutually Agreed Norms for Routing Security](https://www.manrs.org/)
 - [Catalyst 3750 Switch Software Configuration Guide](https://www.cisco.com/c/en/us/td/docs/switches/lan/catalyst3750/software/release/15-0_2_se/configuration/guide/scg3750.html): Exemplary switch configuration guide
 
@@ -105,7 +100,7 @@ may subscribe to get customized reports.
 
 ## administration tools
 ### diagrams
-- [draw.io offline](https://github.com/jgraph/drawio-desktop/releases/tag/v14.1.8)
+- [draw.io offline](https://github.com/jgraph/drawio-desktop)
 - [networkdiagram101](http://networkdiagram101.com/)
 - [netdisco](http://netdisco.org/)
 ### network monitoring
@@ -201,6 +196,7 @@ may subscribe to get customized reports.
 - Computer Networking: A Top-Down Approach
 ### administration
 - Cisco Official Cert Guide for CCNA
+- [CCNA workbook](http://www.freeccnaworkbook.com/workbooks/ccna)
 - Network Warrior
 - Unix and Linux System Administration Handbook
 - Arista Warrior
