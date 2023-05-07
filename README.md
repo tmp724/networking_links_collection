@@ -49,9 +49,10 @@ may subscribe to get customized reports.
 ## programming tools
 ### network emulation
 - [mininet](http://mininet.org/)
-- [netsim](https://netsim-tools.readthedocs.io/en/latest/index.html)
-- [eve-ng](https://www.eve-ng.net/)
 - [gns3](https://docs.gns3.com/)
+- [netlab](https://netsim-tools.readthedocs.io/en/latest/index.html)
+- [packet tracer](https://www.netacad.com/courses/packet-tracer)
+- [eve-ng](https://www.eve-ng.net/)
 - [netem](https://wiki.linuxfoundation.org/networking/netem)
 - [CORE network emulator](https://coreemu.github.io/core/)
 - [Imunes](http://imunes.net/)
