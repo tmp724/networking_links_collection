@@ -88,16 +88,19 @@ may subscribe to get customized reports.
 - [Click](https://github.com/kohler/click) and [FastClick](https://github.com/gkatsikas/fastclick): other Click derivatives exist
 ### packet capture/analysis
 - [wireshark](https://www.wireshark.org/)
+- [tools related to wireshark](https://wiki.wireshark.org/Tools)
 - [tshark](https://tshark.dev/): This is really all you need. Do the tshark tutorials from sharkfest yesterday. Learn to use it in scripting, and never look back.  
 - [arkime](https://github.com/arkime/arkime): large scale packet capture and search
 - [tcpdump](https://www.tcpdump.org/): better performance than *shark
 ### troubleshooting tools
+- ping
 - iperf3
 - dns troubleshooting: dig, digdns, intodns, mxtoolbox
 - whois, nslookup
 - mtr/traceroute, ping
 - hping - like ping, but with tcp/udp transport protocols, get rtt for specific ports
 - speedtest
+- nsntrace: save packets from specific process using network namespaces
 
 ## administration tools
 ### diagrams
