@@ -109,20 +109,21 @@ may subscribe to get customized reports.
 - [netdisco](http://netdisco.org/)
 ### network monitoring
 - [pmacct](http://www.pmacct.net/): powerful UNIX passive network monitoring tool
+- [trafshow](https://linux.die.net/man/1/trafshow)
+- [iftop](https://linux.die.net/man/8/iftop)
+- [ntop](https://www.ntop.org/)
 - [munin](http://munin-monitoring.org/)
 - [collectd](https://collectd.org/)
 - [monitorix](https://www.monitorix.org/)
 - [librenms](https://www.librenms.org/)
 - [TIG stack](https://github.com/matisku/tig-stack)
 - [netxms](https://www.netxms.org/)
-- [iftop](https://linux.die.net/man/8/iftop)
 - [vnstat](https://humdi.net/vnstat/)
 - [bwm-ng](https://github.com/vgropp/bwm-ng)
 - [ibmonitor](http://ibmonitor.sourceforge.net/)
 - [nethogs](https://github.com/raboof/nethogs): bw per process
 - [bmon](https://github.com/tgraf/bmon)
 - [PRTG](https://www.paessler.com/prtg)
-- [ntop](https://www.ntop.org/)
 - [ntopng](https://github.com/ntop/ntopng)
 ### routing daemons
 - [Free range routing](http://docs.frrouting.org/en/latest/overview.html#about-frr)
