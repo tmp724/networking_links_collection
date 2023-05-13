@@ -87,18 +87,22 @@ may subscribe to get customized reports.
 - [Berkeley Extensible Software Switch](http://span.cs.berkeley.edu/bess.html)
 - [Click](https://github.com/kohler/click) and [FastClick](https://github.com/gkatsikas/fastclick): other Click derivatives exist
 ### packet capture/analysis
+- [a first list](https://github.com/caesar0301/awesome-pcaptools)
 - [wireshark](https://www.wireshark.org/)
 - [tools related to wireshark](https://wiki.wireshark.org/Tools)
 - [tshark](https://tshark.dev/): This is really all you need. Do the tshark tutorials from sharkfest yesterday. Learn to use it in scripting, and never look back.  
 - [arkime](https://github.com/arkime/arkime): large scale packet capture and search
 - [tcpdump](https://www.tcpdump.org/): better performance than *shark
+- [tcptrace](https://linux.die.net/man/1/tcptrace): summarizes pcap info
+- [tcpslice](https://www.tcpdump.org/manpages/tcpslice.1.html): slice a pcap file
 ### troubleshooting tools
 - ping
 - iperf3
 - dns troubleshooting: dig, digdns, intodns, mxtoolbox
 - whois, nslookup
-- mtr/traceroute, ping
-- hping - like ping, but with tcp/udp transport protocols, get rtt for specific ports
+- mtr/traceroute
+- pchar: like traceroute, but with per-hop bw measurements
+- hping: like ping, but with tcp/udp transport protocols, get rtt for specific ports
 - speedtest
 - nsntrace: save packets from specific process using network namespaces
 
