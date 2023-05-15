@@ -88,6 +88,7 @@ may subscribe to get customized reports.
 - [Click](https://github.com/kohler/click) and [FastClick](https://github.com/gkatsikas/fastclick): other Click derivatives exist
 ### packet capture/analysis
 - [a first list](https://github.com/caesar0301/awesome-pcaptools)
+- [a second list](https://github.com/paulveillard/cybersecurity-pcap-tools)
 - [wireshark](https://www.wireshark.org/)
 - [tools related to wireshark](https://wiki.wireshark.org/Tools)
 - [tshark](https://tshark.dev/): This is really all you need. Do the tshark tutorials from sharkfest yesterday. Learn to use it in scripting, and never look back.  
