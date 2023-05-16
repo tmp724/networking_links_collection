@@ -66,6 +66,8 @@ may subscribe to get customized reports.
 - [D-ITG](http://traffic.comics.unina.it/software/ITG/)
 - [trex](trex-tgn.cisco.com/)
 - [hping3](https://linux.die.net/man/8/hping3)
+- [sendip](https://www.earth.li/projectpurple/progs/sendip.html)
+- [nemesis](https://github.com/libnet/nemesis)
 - [moongen](https://github.com/emmericp/MoonGen)
 - [dpdk-packetgen](https://pktgen-dpdk.readthedocs.io/en/latest/)
 ### high speed packet processing languages and libraries
