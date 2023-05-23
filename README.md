@@ -108,6 +108,7 @@ may subscribe to get customized reports.
 - hping: like ping, but with tcp/udp transport protocols, get rtt for specific ports
 - speedtest
 - nsntrace: save packets from specific process using network namespaces
+- w
 
 ## administration tools
 ### diagrams
@@ -132,6 +133,7 @@ may subscribe to get customized reports.
 - [bmon](https://github.com/tgraf/bmon)
 - [PRTG](https://www.paessler.com/prtg)
 - [ntopng](https://github.com/ntop/ntopng)
+- [net-snmp](http://www.net-snmp.org/)
 ### routing daemons
 - [Free range routing](http://docs.frrouting.org/en/latest/overview.html#about-frr)
 - Babel
@@ -178,6 +180,7 @@ may subscribe to get customized reports.
 - [Various tools for networking, among other things](https://tools.kali.org/tools-listing)
 - [Task-centered iproute2 user guide](https://www.baturin.org/docs/iproute2/)
 - [ss](https://linux.die.net/man/8/ss)
+- netstat
 - devlink
 - [qgis](https://www.qgis.org/en/site/): deployment planning outside
 - [airmon-ng](https://www.aircrack-ng.org/doku.php?id=airmon-ng): wifi monitoring
