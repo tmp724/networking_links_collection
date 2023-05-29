@@ -1,6 +1,15 @@
 # networking links collection
 Just a collection of networking-related news sites and tools i personally make use of. 
 
+## Overview
+[list of lists](#list-of-lists)
+[general information/news](#general-information/news)
+[monitoring glasses and similar](#monitoring-glasses-and-similar)
+[programming tools](#programming-tools)
+[administration tools](#administration-tools)
+[books](#books)
+[shopping](#shopping)
+
 ## list of lists
 - [Awesome network automation list](https://github.com/networktocode/awesome-network-automation)
 - [Awesome SDN list](https://github.com/sdnds-tw/awesome-sdn): same with a focus on software defined networking
@@ -54,7 +63,7 @@ may subscribe to get customized reports.
 - [packet tracer](https://www.netacad.com/courses/packet-tracer)
 - [eve-ng](https://www.eve-ng.net/)
 - [netem](https://wiki.linuxfoundation.org/networking/netem)
-- [CORE network emulator](https://coreemu.github.io/core/)
+- [CORE](https://coreemu.github.io/core/)
 - [Imunes](http://imunes.net/)
 ### network simulation
 - [ns-3](https://www.nsnam.org/)
@@ -205,6 +214,7 @@ may subscribe to get customized reports.
 - UnicornScan, Kismet Wireless
 - virl, strace, nftables, bpfilter, netdisco
 - bandwidth shaper: trickle
+- iwconfig: configure wifi characteristics
 
 ## books
 ### theoretical basics
