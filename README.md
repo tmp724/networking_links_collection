@@ -3,7 +3,7 @@ Just a collection of networking-related news sites and tools i personally make u
 
 ## Overview
 - [list of lists](#list-of-lists)
-- [general information/news](#general-information/news)
+- [general information and news](#general-information-and-news)
 - [monitoring glasses and similar](#monitoring-glasses-and-similar)
 - [programming tools](#programming-tools)
 - [administration tools](#administration-tools)
@@ -15,7 +15,7 @@ Just a collection of networking-related news sites and tools i personally make u
 - [Awesome SDN list](https://github.com/sdnds-tw/awesome-sdn): same with a focus on software defined networking
 - [Awesome pcap tools list](https://github.com/caesar0301/awesome-pcaptools)
 
-## general information/news
+## general information and news
 ### papers
 - [Papers](https://arxiv.org/list/cs.NI/recent): I actually use the arXiv mobile phone app (available on F-Droid) to skim through papers and then download the important ones from here
 ### general news
