@@ -2,13 +2,13 @@
 Just a collection of networking-related news sites and tools i personally make use of. 
 
 ## Overview
-[list of lists](#list-of-lists)
-[general information/news](#general-information/news)
-[monitoring glasses and similar](#monitoring-glasses-and-similar)
-[programming tools](#programming-tools)
-[administration tools](#administration-tools)
-[books](#books)
-[shopping](#shopping)
+- [list of lists](#list-of-lists)
+- [general information/news](#general-information/news)
+- [monitoring glasses and similar](#monitoring-glasses-and-similar)
+- [programming tools](#programming-tools)
+- [administration tools](#administration-tools)
+- [books](#books)
+- [shopping](#shopping)
 
 ## list of lists
 - [Awesome network automation list](https://github.com/networktocode/awesome-network-automation)
