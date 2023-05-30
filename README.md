@@ -83,6 +83,7 @@ may subscribe to get customized reports.
 #### low-level APIs
 - [P4](https://p4.org/)
 - [eBPF](https://ebpf.io/) and [XDP](https://prototype-kernel.readthedocs.io/en/latest/networking/XDP/)
+- [VPP](https://fd.io/vppproject/vpptech/) on [the Fast Data Project](https://fd.io/)
 - [dpdk](https://www.dpdk.org/)
 - [PF_RING](https://www.ntop.org/products/packet-capture/pf_ring/)
 - [libpcap](https://www.tcpdump.org/pcap.html)
@@ -94,7 +95,6 @@ may subscribe to get customized reports.
 #### high-level networking libraries
 - [libcurl](https://curl.se/libcurl/)
 #### software routers/router APIs
-- [VPP](https://fd.io/vppproject/vpptech/) on [the Fast Data Project](https://fd.io/)
 - [Berkeley Extensible Software Switch](http://span.cs.berkeley.edu/bess.html)
 - [Click](https://github.com/kohler/click) and [FastClick](https://github.com/gkatsikas/fastclick): other Click derivatives exist
 ### packet capture/analysis
@@ -126,22 +126,17 @@ may subscribe to get customized reports.
 - [netdisco](http://netdisco.org/)
 ### network monitoring
 - [pmacct](http://www.pmacct.net/): powerful UNIX passive network monitoring tool
-- [trafshow](https://linux.die.net/man/1/trafshow)
+- [bwm-ng](https://github.com/vgropp/bwm-ng)
 - [iftop](https://linux.die.net/man/8/iftop)
-- [ntop](https://www.ntop.org/)
-- [munin](http://munin-monitoring.org/)
-- [collectd](https://collectd.org/)
 - [monitorix](https://www.monitorix.org/)
 - [librenms](https://www.librenms.org/)
 - [TIG stack](https://github.com/matisku/tig-stack)
 - [netxms](https://www.netxms.org/)
 - [vnstat](https://humdi.net/vnstat/)
-- [bwm-ng](https://github.com/vgropp/bwm-ng)
 - [ibmonitor](http://ibmonitor.sourceforge.net/)
 - [nethogs](https://github.com/raboof/nethogs): bw per process
 - [bmon](https://github.com/tgraf/bmon)
 - [PRTG](https://www.paessler.com/prtg)
-- [ntopng](https://github.com/ntop/ntopng)
 - [net-snmp](http://www.net-snmp.org/)
 ### routing daemons
 - [Free range routing](http://docs.frrouting.org/en/latest/overview.html#about-frr)
