@@ -83,7 +83,7 @@ may subscribe to get customized reports.
 ### high speed packet processing languages and libraries
 #### low-level APIs
 - [P4](https://p4.org/)
-- [eBPF](https://ebpf.io/) and [XDP](https://prototype-kernel.readthedocs.io/en/latest/networking/XDP/)
+- [eBPF](https://ebpf.io/), [Traffic control](https://man7.org/linux/man-pages/man8/tc-bpf.8.html) and [XDP](https://prototype-kernel.readthedocs.io/en/latest/networking/XDP/)
 - [VPP](https://fd.io/vppproject/vpptech/) on [the Fast Data Project](https://fd.io/)
 - [dpdk](https://www.dpdk.org/)
 - [PF_RING](https://www.ntop.org/products/packet-capture/pf_ring/)
