@@ -31,6 +31,7 @@ Just a collection of networking-related news sites and tools i personally make u
 - [Network collective](https://networkcollective.com/)
 - [Packet pushers](https://packetpushers.net/series/podcasts/)
 - [The internet report](https://www.thousandeyes.com/the-internet-report/)
+- [Ping](https://blog.apnic.net/ping-podcast/)
 ### other communities than r/networking
 - [Networkengineering on stackexchange](https://networkengineering.stackexchange.com/)
 - [Serverfault](https://serverfault.com/)
@@ -126,6 +127,7 @@ may subscribe to get customized reports.
 - [netdisco](http://netdisco.org/)
 ### network monitoring
 - [pmacct](http://www.pmacct.net/): powerful UNIX passive network monitoring tool
+- [nethogs](https://github.com/raboof/nethogs): bw per process
 - [bwm-ng](https://github.com/vgropp/bwm-ng)
 - [iftop](https://linux.die.net/man/8/iftop)
 - [monitorix](https://www.monitorix.org/)
@@ -134,7 +136,6 @@ may subscribe to get customized reports.
 - [netxms](https://www.netxms.org/)
 - [vnstat](https://humdi.net/vnstat/)
 - [ibmonitor](http://ibmonitor.sourceforge.net/)
-- [nethogs](https://github.com/raboof/nethogs): bw per process
 - [bmon](https://github.com/tgraf/bmon)
 - [PRTG](https://www.paessler.com/prtg)
 - [net-snmp](http://www.net-snmp.org/)
