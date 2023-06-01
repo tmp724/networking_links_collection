@@ -95,7 +95,7 @@ may subscribe to get customized reports.
 - [GoPacket](https://pkg.go.dev/github.com/google/gopacket)
 #### high-level networking libraries
 - [libcurl](https://curl.se/libcurl/)
-#### software routers/router APIs
+#### software routers/routing APIs
 - [Berkeley Extensible Software Switch](http://span.cs.berkeley.edu/bess.html)
 - [Click](https://github.com/kohler/click) and [FastClick](https://github.com/gkatsikas/fastclick): other Click derivatives exist
 ### packet capture/analysis
@@ -198,7 +198,6 @@ may subscribe to get customized reports.
 - nmap - scan remote ports/networks
 - netcat - test connectivity to specific ports
 - ipcalc/sipcalc
-- labeling cables: brady
 - tcptraceroute
 - arping
 - aggregate
