@@ -41,6 +41,12 @@ Just a collection of networking-related news sites and tools i personally make u
 - [Logbuch Netzpolitik](https://logbuch-netzpolitik.de/)
 - [DLF: Computer und Kommunikation](https://www.deutschlandfunk.de/computer-und-kommunikation)
 - [fachinformatiker.de](https://www.fachinformatiker.de/)
+### linux mailing lists
+- [XDP newbies](https://www.spinics.net/lists/xdp-newbies/)
+- [netfilter](https://www.spinics.net/lists/netfilter/)
+- [bpf](https://lore.kernel.org/bpf/)
+- [netfilter-devel](https://www.spinics.net/lists/netfilter-devel/)
+- [netdev](https://www.spinics.net/lists/netdev/)
 
 ## monitoring glasses and similar
 - [Wondernetwork pings](https://wondernetwork.com/pings): global ping (RTT) statistics
