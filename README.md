@@ -78,6 +78,7 @@ may subscribe to get customized reports.
 ### traffic generation
 - [a first list](http://traffic.comics.unina.it/software/ITG/link.php)
 - [scapy](https://scapy.net/)
+- [netcat](https://en.wikipedia.org/wiki/Netcat)
 - [tcpreplay](http://tcpreplay.appneta.com/)
 - [D-ITG](http://traffic.comics.unina.it/software/ITG/)
 - [trex](trex-tgn.cisco.com/)
