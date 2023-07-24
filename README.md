@@ -64,6 +64,7 @@ may subscribe to get customized reports.
 
 ## programming tools
 ### network emulation
+- [a first list](https://www.brianlinkletter.com/2023/02/network-emulators-and-network-simulators-2023/)
 - [mininet](http://mininet.org/)
 - [gns3](https://docs.gns3.com/)
 - [netlab](https://netsim-tools.readthedocs.io/en/latest/index.html)
