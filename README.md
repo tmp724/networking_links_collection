@@ -204,6 +204,7 @@ may subscribe to get customized reports.
 - tc as a traffic shaping program
 - traceroute - print route packets trace to network host
 - nmap - scan remote ports/networks
+- [zmap](https://github.com/zmap/zmap)
 - netcat - test connectivity to specific ports
 - ipcalc/sipcalc
 - tcptraceroute
