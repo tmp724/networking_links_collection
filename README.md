@@ -36,7 +36,7 @@ Just a collection of networking-related news sites and tools i personally make u
 - [Networkengineering on stackexchange](https://networkengineering.stackexchange.com/)
 - [Serverfault](https://serverfault.com/)
 ### german language sites
-- [Heise](https://www.heise.de/)
+- [heise](https://www.heise.de/): Tech reporting is good, note that the quality of their political reporting subsite Telepolis is questionable
 - [netzpolitik.org](https://netzpolitik.org/)
 - [Logbuch Netzpolitik](https://logbuch-netzpolitik.de/)
 - [DLF: Computer und Kommunikation](https://www.deutschlandfunk.de/computer-und-kommunikation)
