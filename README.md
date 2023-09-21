@@ -67,6 +67,7 @@ may subscribe to get customized reports.
 - [a first list](https://www.brianlinkletter.com/2023/02/network-emulators-and-network-simulators-2023/)
 - [mininet](http://mininet.org/)
 - [gns3](https://docs.gns3.com/)
+- [containerlab](https://containerlab.dev/)
 - [netlab](https://netsim-tools.readthedocs.io/en/latest/index.html)
 - [packet tracer](https://www.netacad.com/courses/packet-tracer)
 - [eve-ng](https://www.eve-ng.net/)
