@@ -52,6 +52,7 @@ Just a collection of networking-related news sites and tools i personally make u
 - [Wondernetwork pings](https://wondernetwork.com/pings): global ping (RTT) statistics
 - [Shadowserver](https://www.shadowserver.org/): Nonprofit organization that scans the internet for vulnerabilities and crafts reports with their findings. Any ASN or public IP space holder 
 may subscribe to get customized reports.
+- [APNIC Internet deployment resource explorer](https://rex.apnic.net/overview)
 - [Hurricane Electric's fancy network map](https://he.net/3d-map/)
 - [Hurricane Electric's free BGP online services](https://bgp.he.net/)
 - [RIPE measurements atlas](https://atlas.ripe.net/)
