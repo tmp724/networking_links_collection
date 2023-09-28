@@ -11,9 +11,11 @@ Just a collection of networking-related news sites and tools i personally make u
 - [shopping](#shopping)
 
 ## list of lists
+- [Awesome list of awesome lists](https://github.com/sindresorhus/awesome)
+- [Awesome pcap tools list](https://github.com/caesar0301/awesome-pcaptools)
 - [Awesome network automation list](https://github.com/networktocode/awesome-network-automation)
 - [Awesome SDN list](https://github.com/sdnds-tw/awesome-sdn): same with a focus on software defined networking
-- [Awesome pcap tools list](https://github.com/caesar0301/awesome-pcaptools)
+- [Awesome SNMP](https://github.com/eozer/awesome-snmp)
 
 ## general information and news
 ### papers
