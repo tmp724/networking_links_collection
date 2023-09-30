@@ -8,6 +8,7 @@ Just a collection of networking-related news sites and tools i personally make u
 - [programming tools](#programming-tools)
 - [administration tools](#administration-tools)
 - [books](#books)
+- [conferences](#conferences)
 - [shopping](#shopping)
 
 ## list of lists
@@ -246,6 +247,12 @@ may subscribe to get customized reports.
 - Analysis of Computer Networks
 - Network Traffic Anomaly Detection and Prevention
 - Fundamentals of Network Forensics 
+
+## conferences
+- [ACM Internet Measurement Conference](https://www.sigcomm.org/events/imc-conference)
+- [ACM SIGCOMM](https://sigcomm.org/events/sigcomm-conference)
+- [sharkfest](https://sharkfest.wireshark.org/sfus/)
+- [netdev](https://netdevconf.info/)
 
 ## shopping
 - [fs.com](https://www.fs.com/): cheap business switches, fiber etc.
