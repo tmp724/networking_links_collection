@@ -17,6 +17,7 @@ Just a collection of networking-related news sites and tools i personally make u
 - [Awesome network automation list](https://github.com/networktocode/awesome-network-automation)
 - [Awesome SDN list](https://github.com/sdnds-tw/awesome-sdn): same with a focus on software defined networking
 - [Awesome SNMP](https://github.com/eozer/awesome-snmp)
+- [packet pushers list](https://packetpushers.net/blog/open-source-networking-projects)
 
 ## general information and news
 ### papers
