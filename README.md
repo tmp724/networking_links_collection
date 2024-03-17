@@ -244,6 +244,8 @@ may subscribe to get customized reports.
 - Internet Routing Architectures
 - MPLS in the SDN Era
 ### other advanced books
+- Measurement and Management of Large-Scale IP Networks
+- High Performance Switches and Routers
 - Recent Advances in Networking
 - Analysis of Computer Networks
 - Network Traffic Anomaly Detection and Prevention
