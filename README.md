@@ -105,6 +105,7 @@ may subscribe to get customized reports.
 - [Socket programming](https://beej.us/guide/bgnet/)
 #### higher-functionality wrappers
 - [pcapplusplus](https://pcapplusplus.github.io/): C++ wrapper for packet capture engines such as libpcap, DPDK, PF_RING or raw sockets, a lot of good features
+- [libtins](https://libtins.github.io/)
 - [Rust's libpnet](https://docs.rs/pnet/0.27.2/pnet/)
 - [GoPacket](https://pkg.go.dev/github.com/google/gopacket)
 #### high-level networking libraries
