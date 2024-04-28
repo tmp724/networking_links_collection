@@ -102,13 +102,14 @@ may subscribe to get customized reports.
 - [dpdk](https://www.dpdk.org/)
 - [PF_RING](https://www.ntop.org/products/packet-capture/pf_ring/)
 - [libpcap](https://www.tcpdump.org/pcap.html)
-- [Socket programming](https://beej.us/guide/bgnet/)
 #### higher-functionality wrappers
 - [pcapplusplus](https://pcapplusplus.github.io/): C++ wrapper for packet capture engines such as libpcap, DPDK, PF_RING or raw sockets, a lot of good features
 - [libtins](https://libtins.github.io/)
 - [Rust's libpnet](https://docs.rs/pnet/0.27.2/pnet/)
 - [GoPacket](https://pkg.go.dev/github.com/google/gopacket)
-#### high-level networking libraries
+#### socket programming and high-level networking libraries
+- [Socket programming](https://beej.us/guide/bgnet/)
+- [Asio](https://think-async.com/Asio/)
 - [libcurl](https://curl.se/libcurl/)
 #### software routers/routing APIs
 - [Berkeley Extensible Software Switch](http://span.cs.berkeley.edu/bess.html)
@@ -171,7 +172,7 @@ may subscribe to get customized reports.
 - OpenWRT
 - Untangle
 - freeBSD/OpenBSD
-- more: Endian Floppyfw IPFire LEDE libreCMC OpenWrt VyOS Zeroshell
+- more: Endian Floppyfw IPFire LEDE libreCMC OpenWrt Zeroshell
 - and more: m0n0wall OPNsense pfSense
 ### Network configuration management
 - [nornir](https://nornir.readthedocs.io/en/latest/)
