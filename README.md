@@ -187,8 +187,6 @@ may subscribe to get customized reports.
 - [Kuwaiba](https://www.kuwaiba.org/)
 - [ralph](https://ralph.allegro.tech/)
 - [racktables](http://www.racktables.org/)
-- [GLPI](https://glpi-project.org/)
-- [iTop](https://www.combodo.com/itop-193)
 - [phpIPAM](https://phpipam.net/)
 - [netbox](https://github.com/netbox-community/netbox)
 ### network login management/authorization
