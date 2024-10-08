@@ -135,6 +135,7 @@ may subscribe to get customized reports.
 - speedtest
 - nsntrace: save packets from specific process using network namespaces
 - w
+- [nsenter](https://www.man7.org/linux/man-pages/man1/nsenter.1.html)
 
 ## administration tools
 ### diagrams
@@ -249,7 +250,6 @@ may subscribe to get customized reports.
 - Recent Advances in Networking
 - Analysis of Computer Networks
 - Network Traffic Anomaly Detection and Prevention
-- Fundamentals of Network Forensics 
 
 ## conferences
 - [ACM Internet Measurement Conference](https://www.sigcomm.org/events/imc-conference)
