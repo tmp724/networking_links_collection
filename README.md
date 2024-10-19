@@ -252,7 +252,7 @@ may subscribe to get customized reports.
 - Network Traffic Anomaly Detection and Prevention
 
 ## conferences
-- [ACM Internet Measurement Conference](https://www.sigcomm.org/events/imc-conference)
+- [ACM Internet Measurement Conference](https://conferences.sigcomm.org/imc/2024/)
 - [ACM SIGCOMM](https://sigcomm.org/events/sigcomm-conference)
 - [sharkfest](https://sharkfest.wireshark.org/sfus/)
 - [netdev](https://netdevconf.info/)
