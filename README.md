@@ -15,7 +15,7 @@ Just a collection of networking-related news sites and tools i personally make u
 - [Awesome list of awesome lists](https://github.com/sindresorhus/awesome)
 - [Awesome pcap tools list](https://github.com/caesar0301/awesome-pcaptools)
 - [Awesome network automation list](https://github.com/networktocode/awesome-network-automation)
-- [Awesome SDN list](https://github.com/sdnds-tw/awesome-sdn): same with a focus on software defined networking
+- [Awesome SDN list](https://github.com/sdnds-tw/awesome-sdn)
 - [Awesome SNMP](https://github.com/eozer/awesome-snmp)
 - [packet pushers list](https://packetpushers.net/blog/open-source-networking-projects)
 
@@ -23,8 +23,6 @@ Just a collection of networking-related news sites and tools i personally make u
 ### papers
 - [Papers](https://arxiv.org/list/cs.NI/recent): I actually use the arXiv mobile phone app (available on F-Droid) to skim through papers and then download the important ones from here
 ### general news
-- [sdnlab](https://www.sdnlab.com/): It is in Chinese, but it's the best SDN related news site i know of. My Chinese isn't much better than anyones, but with 
-[the right dictionary](https://www.mdbg.net/chinese/dictionary#), it's actually not that hard the grasp the key points from a text full of english language buzzwords.
 - [r/networking](https://www.reddit.com/r/networking/new/): vivid community of networking engineers
 - [APNIC blog](https://blog.apnic.net/)
 - [ipspace blog](https://blog.ipspace.net/)
@@ -213,6 +211,7 @@ may subscribe to get customized reports.
 - nmap - scan remote ports/networks
 - [zmap](https://github.com/zmap/zmap)
 - netcat - test connectivity to specific ports
+- socat
 - ipcalc/sipcalc
 - tcptraceroute
 - arping
