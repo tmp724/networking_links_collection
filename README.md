@@ -157,14 +157,14 @@ may subscribe to get customized reports.
 ### routing daemons
 - [Free range routing](http://docs.frrouting.org/en/latest/overview.html#about-frr)
 - Babel
-- B.A.T.M.A.N. 
 - BIRD 
-- FRRouting 
+- ExaBGP
 - GNU Zebra 
 - OpenBGPD 
 - OpenOSPFD 
 - Quagga 
 - XORP
+- B.A.T.M.A.N. 
 ### UNIX-based routing distros
 - VyOS
 - PFsense
